@@ -1,14 +1,3 @@
-﻿---
-title: Accident Severity Mlops
-emoji: 🚗
-colorFrom: green
-colorTo: gray
-sdk: docker
-pinned: false
-license: mit
-short_description: 'Predicts U.S. traffic accident severity'
----
-
 # U.S. Accident Severity Prediction Using Machine Learning
 
 **[Live Demo: Try the deployed model here](https://huggingface.co/spaces/Nazishatta/accident-severity-mlops)**
@@ -642,19 +631,6 @@ The project predicts patterns in historical records; it does not establish causa
 - Add a brief AWS ECR/ASG/ALB scaling test, documented for evidence, without running it continuously.
 
 ---
-
-## Team
-
-**Original model training and research:**
-- Ilgaz Kusku
-- Salman Atta
-- Alejandro Gomez
-
-**Instructor:** Yuxiao (James) Huang
-**Course:** DATS 6202-10 - Machine Learning I, Spring 2026
-
-**Production MLOps pipeline, deployment, and CI/CD automation** (independent solo work, built on top of the team's model training above):
-- Salman Atta
 
 ---
 
