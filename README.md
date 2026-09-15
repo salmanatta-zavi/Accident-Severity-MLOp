@@ -22,7 +22,7 @@ An end-to-end machine learning study for predicting the severity of traffic acci
 
 ## Production MLOps Deployment
 
-This research project has since been extended into a fully deployed, production-style MLOps pipeline, built independently by Faizan Atta as a solo follow-on project. The original modeling work below (Logistic Regression, Random Forest, LightGBM, MLP comparison) was a team effort; the MLOps pipeline, deployment, and automation described here were designed and built independently.
+This research project has since been extended into a fully deployed, production-style MLOps pipeline, built independently by Salman Atta as a solo follow-on project. The original modeling work below (Logistic Regression, Random Forest, LightGBM, MLP comparison) was a team effort; the MLOps pipeline, deployment, and automation described here were designed and built independently.
 
 ### Deployment Architecture
 
@@ -647,14 +647,14 @@ The project predicts patterns in historical records; it does not establish causa
 
 **Original model training and research:**
 - Ilgaz Kusku
-- Faizan Atta
+- Salman Atta
 - Alejandro Gomez
 
 **Instructor:** Yuxiao (James) Huang
 **Course:** DATS 6202-10 - Machine Learning I, Spring 2026
 
 **Production MLOps pipeline, deployment, and CI/CD automation** (independent solo work, built on top of the team's model training above):
-- Faizan Atta
+- Salman Atta
 
 ---
 
